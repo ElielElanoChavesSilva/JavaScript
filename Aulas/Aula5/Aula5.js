@@ -1,10 +1,10 @@
-/*Noçoes básicas sobre funções*/
+/*Noções básicas sobre funções*/
 
 function Soma(n1,n2){
    return n1 + n2
 }
 
-//Aqui o usuario coloca dois números para somar
+//Aqui o usuário insere dois números para somar
 
 let num1 = parseInt(prompt("Digite um número"))
 let num2 = parseInt(prompt("Digite outro número"))
